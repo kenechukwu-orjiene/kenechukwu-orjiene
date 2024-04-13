@@ -1,6 +1,6 @@
 # Hi, I'm Kenechukwu Orjiene 👋
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=supersonicwisd1/supersonicwisd1)](https://github.com/supersonicwisd1)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kenechukwu-orjiene/kenechukwu-orjiene)](https://github.com/supersonicwisd1)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/Supersonicwisd1?style=social)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Lifelong+Learner;Problem+Solver;From+Nigeria&center=true&size=30" align="center">
